@@ -1,0 +1,6 @@
+{
+  "name": "LógicaPro",
+  "description": "Una aplicación educativa interactiva para aprender lógica proposicional, equivalencias y compuertas lógicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered exercise generation", "Interactive logic circuit simulator", "Truth table analysis"]
+}
